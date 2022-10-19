@@ -1,11 +1,9 @@
+[![Inngest logo and code example banner](https://user-images.githubusercontent.com/1736957/196696407-96bb7a3a-61bd-4146-b74f-adc29ef15fd1.png)](https://www.inngest.com)
+
+[Inngest](https://www.inngest.com) is developer platform for building, testing, and deploying code that runs in response to events or on a schedule - without spending any time on infrastructure.
+
+
 <div align="center">
-  <br/>
-    <a href="https://www.inngest.com"><img src="https://user-images.githubusercontent.com/306177/191580717-1f563f4c-31e3-4aa0-848c-5ddc97808a9a.png" width="250" /></a>
-  <br/>
-  <br/>
-  <p align="left">
-    <a href="https://www.inngest.com">Inngest</a> is developer platform for building, testing, and deploying code that runs in response to events or on a schedule - without spending any time on infrastructure.
-  </p>
   Read the <a href="https://www.inngest.com/docs">documentation</a> and get started in minutes.
   <p>
 
