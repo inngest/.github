@@ -1,24 +1,24 @@
-[![Inngest logo and code example banner](https://user-images.githubusercontent.com/1736957/196696407-96bb7a3a-61bd-4146-b74f-adc29ef15fd1.png)](https://www.inngest.com)
+[![Inngest logo and code example banner](./github-readme-banner-high-dpi.png)](https://www.inngest.com)
 
 <div align="center">
   <strong>Works with:</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://www.inngest.com/docs/frameworks/nextjs?ref=org-readme">
     Next.js
   </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  
+
   <a href="https://www.inngest.com/docs/deploy?ref=org-readme">
     Vercel
   </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  
+
   <a href="https://www.inngest.com/docs/deploy/netlify?ref=org-readme">
     Netlify
   </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  
+
   <a href="https://www.inngest.com/docs/frameworks/express?ref=org-readme">
     Express
   </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  
+
   <a href="https://www.inngest.com/docs/frameworks/cloudflare-pages?ref=org-readme">
     Cloudflare Pages
   </a>
@@ -26,7 +26,6 @@
 <br>
 
 [Inngest](https://www.inngest.com) is developer platform for building, testing, and deploying code that runs in response to events or on a schedule - without spending any time on infrastructure.
-
 
 <div align="center">
   Read the <a href="https://www.inngest.com/docs">documentation</a> and get started in minutes.
