@@ -20,7 +20,7 @@
 </div>
 <br/>
 
-[Inngest](https://www.inngest.com) is developer platform that combines event streams, queues, and durable execution into a single reliability layer.
+[Inngest](https://www.inngest.com) is a developer platform that combines event streams, queues, and durable execution into a single reliability layer.
 
 <div align="center">
 
