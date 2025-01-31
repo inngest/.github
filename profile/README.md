@@ -7,7 +7,7 @@
 
 Inngest's durable functions replace queues, state management, and scheduling to enable any developer to write reliable step functions faster without touching infrastructure.
 
-Read the <a href="https://www.inngest.com/docs?ref=github-org-readme">documentation</a> to get started in minutes.
+Read the <a href="https://www.inngest.com/docs?ref=github-org-readme">documentation</a> to get started in minutes or <a href="https://www.inngest.com/contact?ref=github&utm_source=github&utm_medium=readme">book a 10-min demo</a> with Tony to get help with your use case and setup.
 
 ```
 npx inngest-cli@latest dev
