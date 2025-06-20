@@ -1,4 +1,4 @@
-[![Inngest Banner](https://github.com/inngest/.github/raw/main/profile/github-readme-banner-2024-09-23.png)](https://www.inngest.com?ref=github-org-readme)
+[![Inngest Banner](https://github.com/inngest/.github/raw/main/profile/github-readme-banner-2025-06-20.png)](https://www.inngest.com?ref=github-org-readme)
 
 <div align="center">
   <a href="https://discord.gg/EuesV2ZSnX"><img src="https://img.shields.io/discord/842170679536517141?label=discord" /></a>
