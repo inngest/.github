@@ -1,13 +1,13 @@
-[![Inngest Banner](https://github.com/inngest/.github/raw/main/profile/github-readme-banner-2025-06-20.png)](https://www.inngest.com?ref=github-org-readme)
+[![Inngest Banner](https://github.com/inngest/.github/raw/main/profile/github-readme-banner-2026-06-10.png)](https://www.inngest.com?ref=github-org-readme)
 
 <div align="center">
   <a href="https://discord.gg/EuesV2ZSnX"><img src="https://img.shields.io/discord/842170679536517141?label=discord" /></a>
   <a href="https://twitter.com/inngest"><img src="https://img.shields.io/twitter/follow/inngest?style=social" /></a>
 </div>
 
-Inngest's durable functions replace queues, state management, and scheduling to enable any developer to write reliable step functions faster without touching infrastructure.
+Inngest is agent infrastructure that lives in your codebase. Write logic as functions that automate retries, control flow, and unlock full observability—with zero extra infrastructure.
 
-Read the <a href="https://www.inngest.com/docs?ref=github-org-readme">documentation</a> to get started in minutes or <a href="https://www.inngest.com/contact?ref=github&utm_source=github&utm_medium=readme">book a 10-min demo</a> with Tony to get help with your use case and setup.
+When things break, see exactly what happened, and pick up exactly where you left off. No workers, no queues, no thinking about how your code breaks. Whether you're building AI agents, background jobs, or event-driven workflows—Inngest makes any code durable and observable by default. Read the <a href="https://www.inngest.com/docs?ref=github-org-readme">documentation</a>, <a href="https://app.inngest.com/sign-up?ref=github-repo-pro">try Inngest Cloud for free</a>, or <a href="https://www.inngest.com/contact?ref=github-org-readme">book a call with a Solutions Architect</a> for more help.
 
 ```
 npx inngest-cli@latest dev
